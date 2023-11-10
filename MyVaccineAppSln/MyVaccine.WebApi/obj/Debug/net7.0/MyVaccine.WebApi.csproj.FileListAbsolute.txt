@@ -70,3 +70,8 @@ C:\proj\dotnet_webapi_advanced\MyVaccineAppSln\MyVaccine.WebApi\obj\Debug\net7.0
 C:\proj\dotnet_webapi_advanced\MyVaccineAppSln\MyVaccine.WebApi\obj\Debug\net7.0\MyVaccine.WebApi.pdb
 C:\proj\dotnet_webapi_advanced\MyVaccineAppSln\MyVaccine.WebApi\obj\Debug\net7.0\MyVaccine.WebApi.genruntimeconfig.cache
 C:\proj\dotnet_webapi_advanced\MyVaccineAppSln\MyVaccine.WebApi\obj\Debug\net7.0\ref\MyVaccine.WebApi.dll
+C:\proj\dotnet_webapi_advanced\MyVaccineAppSln\MyVaccine.WebApi\bin\Debug\net7.0\Humanizer.dll
+C:\proj\dotnet_webapi_advanced\MyVaccineAppSln\MyVaccine.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\proj\dotnet_webapi_advanced\MyVaccineAppSln\MyVaccine.WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\proj\dotnet_webapi_advanced\MyVaccineAppSln\MyVaccine.WebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\proj\dotnet_webapi_advanced\MyVaccineAppSln\MyVaccine.WebApi\bin\Debug\net7.0\System.CodeDom.dll
