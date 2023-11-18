@@ -1,8 +1,10 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
 
 namespace MyVaccine.WebApi.Models;
 
-public class MyVaccineAppDbContext : DbContext
+public class MyVaccineAppDbContext : IdentityDbContext<IdentityUser>
 {
     public MyVaccineAppDbContext(DbContextOptions<MyVaccineAppDbContext> options) : base(options)
     {
@@ -18,20 +20,23 @@ public class MyVaccineAppDbContext : DbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+        base.OnModelCreating(modelBuilder);
+
+
         modelBuilder.Entity<User>(entity =>
+
+
+                modelBuilder.Entity<User>(entity =>
         {
-            entity.Property(u => u.UserName)
+
+            entity.Property(u => u.FirstName)
                 .IsRequired()
                 .HasMaxLength(255);
 
-            entity.Property(u => u.Email)
+            entity.Property(u => u.LastName)
                 .IsRequired()
                 .HasMaxLength(255);
-
-            entity.Property(u => u.Password)
-                .IsRequired()
-                .HasMaxLength(255);
-        });
+        }));
 
         modelBuilder.Entity<Dependent>(entity =>
         {

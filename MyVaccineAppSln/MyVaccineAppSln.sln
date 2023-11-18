@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyVaccine.WebApi", "MyVaccine.WebApi\MyVaccine.WebApi.csproj", "{38975486-2494-4388-87AC-C5E0A2AFE2F9}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IngenieriaInversa", "IngenieriaInversa\IngenieriaInversa.csproj", "{15272EA5-CF4A-4F1A-8BC9-5AF5DF33B45B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{38975486-2494-4388-87AC-C5E0A2AFE2F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38975486-2494-4388-87AC-C5E0A2AFE2F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38975486-2494-4388-87AC-C5E0A2AFE2F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15272EA5-CF4A-4F1A-8BC9-5AF5DF33B45B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15272EA5-CF4A-4F1A-8BC9-5AF5DF33B45B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15272EA5-CF4A-4F1A-8BC9-5AF5DF33B45B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15272EA5-CF4A-4F1A-8BC9-5AF5DF33B45B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

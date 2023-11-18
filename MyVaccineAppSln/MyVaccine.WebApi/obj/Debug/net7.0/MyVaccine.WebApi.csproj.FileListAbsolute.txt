@@ -75,3 +75,15 @@ C:\proj\dotnet_webapi_advanced\MyVaccineAppSln\MyVaccine.WebApi\bin\Debug\net7.0
 C:\proj\dotnet_webapi_advanced\MyVaccineAppSln\MyVaccine.WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 C:\proj\dotnet_webapi_advanced\MyVaccineAppSln\MyVaccine.WebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\proj\dotnet_webapi_advanced\MyVaccineAppSln\MyVaccine.WebApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\proj\dotnet_webapi_advanced\MyVaccineAppSln\MyVaccine.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\proj\dotnet_webapi_advanced\MyVaccineAppSln\MyVaccine.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\proj\dotnet_webapi_advanced\MyVaccineAppSln\MyVaccine.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\proj\dotnet_webapi_advanced\MyVaccineAppSln\MyVaccine.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\proj\dotnet_webapi_advanced\MyVaccineAppSln\MyVaccine.WebApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\proj\dotnet_webapi_advanced\MyVaccineAppSln\MyVaccine.WebApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\proj\dotnet_webapi_advanced\MyVaccineAppSln\MyVaccine.WebApi\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\proj\dotnet_webapi_advanced\MyVaccineAppSln\MyVaccine.WebApi\bin\Debug\net7.0\AutoMapper.dll
+C:\proj\dotnet_webapi_advanced\MyVaccineAppSln\MyVaccine.WebApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\proj\dotnet_webapi_advanced\MyVaccineAppSln\MyVaccine.WebApi\bin\Debug\net7.0\FluentValidation.dll
+C:\proj\dotnet_webapi_advanced\MyVaccineAppSln\MyVaccine.WebApi\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\proj\dotnet_webapi_advanced\MyVaccineAppSln\MyVaccine.WebApi\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
